@@ -1,0 +1,5 @@
+00:55:25.141 [main] INFO  com.intuit.karate.Runner - using system property 'karate.options': --tags @evalDemo
+00:55:26.389 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+00:55:27.839 [main] INFO  com.intuit.karate - karate.env system property was: null 
+00:55:28.773 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 6 (0 remaining) classpath:examples/users/evalDemo.feature
+00:55:28.790 [main] DEBUG com.intuit.karate.Suite - waiting for 6 features to complete
